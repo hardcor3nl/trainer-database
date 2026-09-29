@@ -1,0 +1,791 @@
+[
+ {
+  "id": "wahoo-kickr-v6",
+  "brand": "Wahoo",
+  "model": "KICKR (2022, WiFi)",
+  "type": "smart-trainer",
+  "status": "current",
+  "claimedPowerAccuracy": "±1%",
+  "maxPowerW": 2200,
+  "maxPowerNote": null,
+  "maxSimulatedGradientPct": 20,
+  "minSimulatedGradientPct": -10,
+  "flywheel": "16 lb (as stated by Wahoo)",
+  "noiseClaim": null,
+  "weight": "47 lb / 22 kg",
+  "maxRiderWeight": "250 lb / 113 kg",
+  "connectivity": "ANT+, ANT+ FE-C, WiFi, Bluetooth, Direct Connect",
+  "price": 1049.99,
+  "priceCurrency": "USD",
+  "priceNote": "US list price $1,049.99 (Cyclingnews, Dec 2025 and Jul 2026 deal coverage); Amazon sold it at $849.99 in a sale reported 28 Jul 2026, and Zwift at $599.99 with Cog and Click in its New Year sale. DC Rainmaker's $999.99 was the Sept 2024 cut. Wahoo's own US page could not be read (its store redirects to the EU site, EUR 849.99), so this is a reviewer-reported list price, checked 2026-09-29. Also listed at $1,049.99 (USD) on Trek US and Human Powered Health, read 2026-09-29.",
+  "specSource": "https://www.wahoofitness.com/devices/indoor-cycling/bike-trainers/kickr-buy",
+  "priceSource": "https://www.cyclingnews.com/bikes/save-usd200-on-the-wahoo-kickr-v6-our-top-choice-for-a-smart-trainer-is-at-its-lowest-price-of-the-year/",
+  "publishedFindings": [
+   {
+    "reviewer": "BikeRadar",
+    "reviewedModel": "Wahoo KICKR V6",
+    "measured": "Power against a Verve InfoCrank and Favero Assioma Duo pedals; noise at 30 and 45 km/h; the new ERG ramp behaviour",
+    "result": "Reports power tracking the reference meters very closely, noise around 61 dB at 30 km/h rising to just over 65 dB in sprints, and an ERG Easy Ramp that gives about 10 seconds to restart after a pause. Concludes it is one of the best-performing trainers but not a value pick, noting the price rise over the V5.",
+    "url": "https://www.bikeradar.com/reviews/training/indoor-trainers/wahoo-kickr-v6-review",
+    "published": "2022-11"
+   },
+   {
+    "reviewer": "road.cc",
+    "reviewedModel": "Wahoo KICKR V6",
+    "measured": "Power against a Power2Max NGeco and Favero Assioma Duo pedals over Wi-Fi and ANT+",
+    "result": "Found Wi-Fi readings tracked the reference meters across intervals including short sprints; on ANT+ it saw gaps up to about 6% on 1-second sprints but blamed signal dropout rather than the trainer. Lists 21.9 kg, a 7.3 kg flywheel and 20% grade, and says the Direct Connect dongle was an extra cost.",
+    "url": "https://road.cc/content/review/wahoo-kickr-smart-trainer-v6-297797",
+    "published": "2022-12"
+   }
+  ],
+  "checked": "2026-09-29",
+  "sources": [
+   "https://www.wahoofitness.com/devices/indoor-cycling/bike-trainers/kickr-buy",
+   "https://www.bikeradar.com/reviews/training/indoor-trainers/wahoo-kickr-v6-review",
+   "https://road.cc/content/review/wahoo-kickr-smart-trainer-v6-297797"
+  ]
+ },
+ {
+  "id": "wahoo-kickr-core-2",
+  "brand": "Wahoo",
+  "model": "KICKR CORE 2",
+  "type": "smart-trainer",
+  "status": "current",
+  "claimedPowerAccuracy": "±2%",
+  "maxPowerW": 1800,
+  "maxPowerNote": null,
+  "maxSimulatedGradientPct": 16,
+  "minSimulatedGradientPct": -10,
+  "flywheel": null,
+  "noiseClaim": null,
+  "weight": "30 lb / 13.6 kg",
+  "maxRiderWeight": "250 lb / 113 kg",
+  "connectivity": "ANT+, ANT+ FE-C, WiFi, Bluetooth",
+  "price": 549.99,
+  "priceCurrency": "USD",
+  "priceNote": "Price shown on Wahoo US store with 11-speed cassette on check date.",
+  "specSource": "https://www.wahoofitness.com/devices/indoor-cycling/bike-trainers/kickr-core-2-buy",
+  "priceSource": "https://www.wahoofitness.com/devices/indoor-cycling/bike-trainers/kickr-core-2-buy",
+  "publishedFindings": [
+   {
+    "reviewer": "DC Rainmaker (Ray Maker)",
+    "reviewedModel": "KICKR CORE 2",
+    "measured": "Over 1,000 km of riding on two units (a Wahoo loaner and a retail unit he bought), compared against SRAM Force crank and Garmin Rally pedal power meters",
+    "result": "Reports the three sources agreeing closely in the 30-second on/off test and calls responsiveness good (about 2 s to reach a target). He flags that launch reviewers needed a hidden 'Pro Spindown' calibration and that some readers reported accuracy problems, which is why he bought a second unit.",
+    "url": "https://www.dcrainmaker.com/2025/11/wahoo-kickr-core-2-in-depth-review.html",
+    "published": "2025-11"
+   },
+   {
+    "reviewer": "BikeRadar",
+    "reviewedModel": "Wahoo KICKR CORE 2",
+    "measured": "Power against 4iiii Precision 3+ Pro and Favero Assioma PRO RS pedals; noise; ERG smoothness",
+    "result": "Trainer read a couple of watts under the on-bike meters on average; noise about 58-59 dB at 150 W and 62-63 dB in sprints (quieter than the previous Core with the updated Zwift Cog); ERG reasonably smooth but a little less precise than a Tacx NEO 3M. Calls it a modest upgrade and notes it costs more than the JetBlack Victory.",
+    "url": "https://www.bikeradar.com/reviews/training/indoor-trainers/wahooo-kickr-core-2-review",
+    "published": "2025-10"
+   },
+   {
+    "reviewer": "road.cc",
+    "reviewedModel": "Wahoo KICKR CORE 2",
+    "measured": "Power against a dual-sided 4iii meter; ERG and virtual-gradient response; connectivity",
+    "result": "Average power within about 1 W of the reference, cadence matched, and maximum power about 2.5% apart. Reports lag when ERG intervals start, a slow response to sharp gradient changes, and several connectivity problems (heart-rate strap, Zwift Click shifters, two full Zwift disconnects). Says the roughly 13 kg unit moved during hard sprints. Rated 7/10 by the reviewer.",
+    "url": "https://road.cc/content/review/wahoo-kickr-core-2-trainer-317849",
+    "published": "2026-02"
+   }
+  ],
+  "checked": "2026-09-29",
+  "sources": [
+   "https://www.dcrainmaker.com/2025/11/wahoo-kickr-core-2-in-depth-review.html",
+   "https://www.wahoofitness.com/devices/indoor-cycling/bike-trainers/kickr-core-2-buy",
+   "https://www.bikeradar.com/reviews/training/indoor-trainers/wahooo-kickr-core-2-review",
+   "https://road.cc/content/review/wahoo-kickr-core-2-trainer-317849"
+  ]
+ },
+ {
+  "id": "wahoo-kickr-rollr",
+  "brand": "Wahoo",
+  "model": "KICKR ROLLR",
+  "type": "smart-roller",
+  "status": "current",
+  "claimedPowerAccuracy": "Within ±1% of an external power meter (not included), per Wahoo spec table",
+  "maxPowerW": 1500,
+  "maxPowerNote": null,
+  "maxSimulatedGradientPct": 10,
+  "minSimulatedGradientPct": -10,
+  "flywheel": "10.5 lb (as stated by Wahoo)",
+  "noiseClaim": null,
+  "weight": "50 lb / 23 kg",
+  "maxRiderWeight": "250 lb / 113 kg",
+  "connectivity": "ANT+, ANT+ FE-C, Bluetooth, Direct Connect",
+  "price": 699.99,
+  "priceCurrency": "USD",
+  "priceNote": "US retailer listing price $699.99 (Mike's Bikes, Erik's Bike Shop and all3sports pages, read 2026-09-29). Wahoo's EU store shows EUR 599.99; Wahoo's US page could not be read.",
+  "specSource": "https://www.wahoofitness.com/devices/indoor-cycling/bike-trainers/kickr-rollr-buy",
+  "priceSource": "https://www.wahoofitness.com/devices/indoor-cycling/bike-trainers/kickr-rollr-buy",
+  "publishedFindings": [
+   {
+    "reviewer": "BikeRadar",
+    "reviewedModel": "Wahoo KICKR ROLLR",
+    "measured": "Noise at 30 and 45 km/h; ride feel; power via external meters",
+    "result": "Notes no built-in power meter at the time of review (it read external ANT+ meters), noise of 63-65 dB at about 30 km/h and just under 75 dB above 45 km/h, and a 4.7 kg flywheel that feels lighter than similarly priced direct-drive trainers. Verdict: convenient for swapping bikes but costly for the specification.",
+    "url": "https://www.bikeradar.com/reviews/training/indoor-trainers/wahoo-kickr-rollr-review",
+    "published": "2022-05"
+   },
+   {
+    "reviewer": "PezCycling News",
+    "reviewedModel": "Wahoo KICKR ROLLR (with firmware onboard power)",
+    "measured": "Onboard power estimate versus dedicated meters; slippage; ride feel",
+    "result": "Says the onboard power estimate has clear accuracy limits and is not suited to competitive racing, that the tyre can slip during 600 W-plus sprints, and that the free-moving feel suits long base rides. Suggests it fits people who want low-cost smart training without buying a power meter.",
+    "url": "https://pezcyclingnews.com/technspec-cycling-gear-reviews/review-wahoo-kickr-rollr-smart-trainer/",
+    "published": "2025-12"
+   }
+  ],
+  "checked": "2026-09-29",
+  "sources": [
+   "https://www.wahoofitness.com/devices/indoor-cycling/bike-trainers/kickr-rollr-buy",
+   "https://www.bikeradar.com/reviews/training/indoor-trainers/wahoo-kickr-rollr-review",
+   "https://pezcyclingnews.com/technspec-cycling-gear-reviews/review-wahoo-kickr-rollr-smart-trainer/"
+  ]
+ },
+ {
+  "id": "wahoo-kickr-bike-shift",
+  "brand": "Wahoo",
+  "model": "KICKR BIKE SHIFT",
+  "type": "smart-bike",
+  "status": "current",
+  "claimedPowerAccuracy": "±1%",
+  "maxPowerW": 2200,
+  "maxPowerNote": null,
+  "maxSimulatedGradientPct": 20,
+  "minSimulatedGradientPct": -15,
+  "flywheel": null,
+  "noiseClaim": null,
+  "weight": "79 lb / 36 kg",
+  "maxRiderWeight": "250 lb / 113 kg",
+  "connectivity": "ANT+, ANT+ FE-C, WiFi, Bluetooth, Direct Connect",
+  "price": 2549.99,
+  "priceCurrency": "USD",
+  "priceNote": "US retailer listing price $2,549.99 (Bike Mart, RA Cycles and RAGBRAI shop pages, read 2026-09-29; DC Rainmaker reported $2,499 after the Sept 2024 cut and Cycling Weekly found no significant US discount on 31 Jul 2026). One US shop (Erik's, sold out) showed $1,999.99. Wahoo's own store redirects our fetch to its EU site, where the price is EUR 1,999.99, and Wahoo's US page could not be read.",
+  "specSource": "https://www.wahoofitness.com/devices/indoor-cycling/smart-bikes/kickr-bike-shift-buy",
+  "priceSource": "https://www.wahoofitness.com/devices/indoor-cycling/smart-bikes/kickr-bike-shift-buy",
+  "publishedFindings": [
+   {
+    "reviewer": "DC Rainmaker (Ray Maker)",
+    "reviewedModel": "KICKR BIKE SHIFT",
+    "measured": "Long-term review against Favero Assioma Duo pedals and other trusted power meters, 30x30 ERG intervals",
+    "result": "Says launch-era firmware caused inconsistent accuracy (a temperature-compensation bug, then random bad days), but that from about mid-to-late November onward it was consistently within a few watts (mostly 1-3 W) of the pedals, with responsiveness in the normal range.",
+    "url": "https://www.dcrainmaker.com/2024/06/wahoo-kickr-bike-shift-in-depth-review.html",
+    "published": "2024-06"
+   },
+   {
+    "reviewer": "PezCycling News",
+    "reviewedModel": "KICKR BIKE SHIFT",
+    "measured": "Several hundred miles across SYSTM, Zwift, Rouvy and BKOOL; drivetrain noise; fit range",
+    "result": "Says the belt drive is even quieter than a trainer he had used before, with near-instant pedalling response; describes a wide fit range (standover, saddle height and setback, reach, stack, crank length). Frames it as a cheaper alternative to a second bike for people with permanent indoor space. Gives the +/-1% accuracy as Wahoo's claim, not a measurement.",
+    "url": "https://pezcyclingnews.com/technspec-cycling-gear-reviews/wahoo-kickr-bike-shift-review/",
+    "published": "2024-01"
+   }
+  ],
+  "checked": "2026-09-29",
+  "sources": [
+   "https://www.dcrainmaker.com/2024/06/wahoo-kickr-bike-shift-in-depth-review.html",
+   "https://www.wahoofitness.com/devices/indoor-cycling/smart-bikes/kickr-bike-shift-buy",
+   "https://pezcyclingnews.com/technspec-cycling-gear-reviews/wahoo-kickr-bike-shift-review/"
+  ]
+ },
+ {
+  "id": "wahoo-kickr-bike-pro",
+  "brand": "Wahoo",
+  "model": "KICKR BIKE PRO",
+  "type": "smart-bike",
+  "status": "current",
+  "claimedPowerAccuracy": "±1%",
+  "maxPowerW": 2500,
+  "maxPowerNote": null,
+  "maxSimulatedGradientPct": 20,
+  "minSimulatedGradientPct": -15,
+  "flywheel": null,
+  "noiseClaim": null,
+  "weight": null,
+  "maxRiderWeight": "250 lb / 113 kg",
+  "connectivity": "ANT+, ANT+ FE-C, WiFi, Bluetooth, Direct Connect",
+  "price": 3999.99,
+  "priceCurrency": "USD",
+  "priceNote": "US listings show $3,999.99 (Trek US, Cyclingnews deal table, Cycling Weekly 31 Jul 2026). Wahoo's own store redirected our fetch to its EU site (EUR 3,999.99), so Wahoo's US page was not read.",
+  "specSource": "https://www.wahoofitness.com/devices/indoor-cycling/smart-bikes/kickr-bike-pro-buy",
+  "priceSource": "https://www.wahoofitness.com/devices/indoor-cycling/smart-bikes/kickr-bike-pro-buy",
+  "publishedFindings": [
+   {
+    "reviewer": "DC Rainmaker (Ray Maker)",
+    "reviewedModel": "KICKR BIKE PRO",
+    "measured": "Hands-on article on what changed versus the KICKR BIKE V2 (touchpoints, controls, price); not a lab accuracy test",
+    "result": "Lists the changes (new handlebar with Zwift Play-style buttons, Fizik saddle and tape, Sensor Hub) and a price rise from $3,899 to $3,999. No independent accuracy measurement found for this model on the check date.",
+    "url": "https://www.dcrainmaker.com/2025/09/wahoo-kickr-bike-pro-hands-on-details.html",
+    "published": "2025-09"
+   },
+   {
+    "reviewer": "road.cc",
+    "reviewedModel": "Wahoo KICKR BIKE PRO",
+    "measured": "Power against Favero Assioma Pro RS2 pedals in ERG, free ride and sprints; cadence",
+    "result": "Bike read consistently about 4% above the pedals; cadence within about 0.8 rpm; ERG held steady down to 40-50 rpm without the old resistance spiral. Complains about the small display and that the incline range in Zwift depends on the difficulty setting; says the Wattbike Proton, at about half the price, is not as good but good enough for many riders.",
+    "url": "https://road.cc/content/review/wahoo-kickr-bike-pro-317227",
+    "published": "2025-12"
+   },
+   {
+    "reviewer": "PezCycling News",
+    "reviewedModel": "KICKR BIKE PRO",
+    "measured": "Belt-drive feel, virtual shifting speed, incline range, fit, Zwift Play controls, ERG Easy Ramp",
+    "result": "Praises near-instant shifting and smooth load changes and describes the tilt (+20% to -15%) and built-in controls as marginal gains over the SHIFT; misses side-to-side movement. Suggests it suits people without a trainer, multi-rider homes and serious Zwift users who can afford it. No power-accuracy test.",
+    "url": "https://pezcyclingnews.com/latestnews/wahoo-kickr-bike-pro-review/",
+    "published": "2025-11"
+   }
+  ],
+  "checked": "2026-09-29",
+  "sources": [
+   "https://www.dcrainmaker.com/2025/09/wahoo-kickr-bike-pro-hands-on-details.html",
+   "https://www.wahoofitness.com/devices/indoor-cycling/smart-bikes/kickr-bike-pro-buy",
+   "https://road.cc/content/review/wahoo-kickr-bike-pro-317227",
+   "https://pezcyclingnews.com/latestnews/wahoo-kickr-bike-pro-review/"
+  ]
+ },
+ {
+  "id": "tacx-neo-3m",
+  "brand": "Garmin (Tacx)",
+  "model": "Tacx NEO 3M",
+  "type": "smart-trainer",
+  "status": "current",
+  "claimedPowerAccuracy": "<1% (Garmin spec table)",
+  "maxPowerW": 2200,
+  "maxPowerNote": "Stated as sprint stability up to 2,200 W",
+  "maxSimulatedGradientPct": 25,
+  "minSimulatedGradientPct": null,
+  "flywheel": "Virtual (variable inertia up to 125 kg equivalent)",
+  "noiseClaim": null,
+  "weight": "23.6 kg / 52.0 lb",
+  "maxRiderWeight": null,
+  "connectivity": "ANT+, dual Bluetooth",
+  "price": 1799.99,
+  "priceCurrency": "USD",
+  "priceNote": "Current price on Garmin US store, checked 2026-09-29 (the 2023 launch MSRP was $1,999.99).",
+  "specSource": "https://www.garmin.com/en-US/p/885302/",
+  "priceSource": "https://www.garmin.com/en-US/p/885302/",
+  "publishedFindings": [
+   {
+    "reviewer": "DC Rainmaker (Ray Maker)",
+    "reviewedModel": "Tacx NEO 3M",
+    "measured": "Accuracy against Favero pedals: 8-minute intervals near 300 W, low-cadence ramp down, ERG control",
+    "result": "Describes it as one of the most accurate trainers he has tested, with no drift over the steady intervals and power matching down to the cadence where it cut out; he also rates its ERG-mode control very highly and criticises the price and the bulk of the rear housing.",
+    "url": "https://www.dcrainmaker.com/2023/12/review-motion-accuracy.html",
+    "published": "2023-12"
+   },
+   {
+    "reviewer": "BikeRadar",
+    "reviewedModel": "Tacx NEO 3M",
+    "measured": "Power against Favero Assioma Duo and Quarq DFour DUB; noise at 150 W and 600 W; ERG; motion",
+    "result": "Reports it matching both references throughout, ERG described as the best of any trainer they have tested, noise 63-65 dB at 150 W and over 70 dB at 600 W, and about 5 cm of motion that felt awkward in sprints. Marks it down for missing Wi-Fi, no high-speed data mode and no sensor bridging at the price.",
+    "url": "https://www.bikeradar.com/reviews/training/indoor-trainers/tacx-neo-3m-review",
+    "published": "2025-02"
+   },
+   {
+    "reviewer": "OutdoorGearLab",
+    "reviewedModel": "Garmin Tacx NEO 3M",
+    "measured": "Power against independent pedals; ERG ramp time; motion; portability",
+    "result": "Reports power within 0-2 W (under 1%) of independent pedal power, ERG reaching target in 3-4 seconds without spikes, and about 2 inches of fore-aft motion adding realism. Its favourite trainer overall but too expensive for its top award; better for a fixed basement setup than for moving around (52 lb).",
+    "url": "https://www.outdoorgearlab.com/reviews/biking/bike-trainer/garmin-tacx-neo-3m",
+    "published": "2024-04"
+   }
+  ],
+  "checked": "2026-09-29",
+  "sources": [
+   "https://www.dcrainmaker.com/2023/12/review-motion-accuracy.html",
+   "https://www.garmin.com/en-US/newsroom/press-release/sports-fitness/garmin-unveils-the-tacx-neo-3m-a-powerful-indoor-smart-trainer-with-multidirectional-movement/",
+   "https://www.garmin.com/en-US/p/885302/",
+   "https://www.bikeradar.com/reviews/training/indoor-trainers/tacx-neo-3m-review",
+   "https://www.outdoorgearlab.com/reviews/biking/bike-trainer/garmin-tacx-neo-3m"
+  ]
+ },
+ {
+  "id": "tacx-neo-2t",
+  "brand": "Garmin (Tacx)",
+  "model": "Tacx NEO 2T",
+  "type": "smart-trainer",
+  "status": "current",
+  "claimedPowerAccuracy": "<1% (Garmin spec table)",
+  "maxPowerW": 2200,
+  "maxPowerNote": null,
+  "maxSimulatedGradientPct": 25,
+  "minSimulatedGradientPct": null,
+  "flywheel": "Virtual (variable inertia up to 125 kg equivalent)",
+  "noiseClaim": null,
+  "weight": "21.5 kg / 47.4 lb",
+  "maxRiderWeight": null,
+  "connectivity": "ANT+, Bluetooth",
+  "price": 1099.99,
+  "priceCurrency": "USD",
+  "priceNote": "List price on Garmin US store, checked 2026-09-29. A promotional price of $899.99 was also shown on the page that day.",
+  "specSource": "https://www.garmin.com/en-US/p/701670/",
+  "priceSource": "https://www.garmin.com/en-US/p/701670/",
+  "publishedFindings": [
+   {
+    "reviewer": "DC Rainmaker (Ray Maker)",
+    "reviewedModel": "Tacx NEO 2T",
+    "measured": "Power vs several pedal, crank and hub power meters in Zwift and TrainerRoad, 30x30 ERG repeats",
+    "result": "Reports the trainer and reference meters staying within a few watts of each other in most data sets, apart from an unsteady first interval; responsiveness was very quick (he says almost too aggressive) and he ranked precision as solid but just behind the Saris Hammer 3 on his 30x30 test.",
+    "url": "https://www.dcrainmaker.com/2019/11/smart-trainer-review.html",
+    "published": "2019-11"
+   },
+   {
+    "reviewer": "BikeRadar",
+    "reviewedModel": "Tacx NEO 2T",
+    "measured": "Power against Garmin Vector pedals; noise",
+    "result": "Found power within about 2% of the pedals and noise around 61 dB; praises the virtual flywheel and quietness but notes no carry handle and a separately bought cassette at launch.",
+    "url": "https://www.bikeradar.com/reviews/training/indoor-trainers/resistance-trainer/tacx-neo-2t-smart-review",
+    "published": "2019-10"
+   },
+   {
+    "reviewer": "Zwift Insider",
+    "reviewedModel": "Tacx NEO 2T",
+    "measured": "Power on a 5-minute climb and in sprints against Garmin Vector 2S pedals; noise; Zwift climb time",
+    "result": "Steady climbing differed from the pedals by about 1.2% (4 W) and sprints by roughly 2-4%; the reviewer found the virtual flywheel made climbs and sprints feel harder than on physical-flywheel trainers, and saw 15 W swings in ERG at low wattage. Quotes Tacx's own 57.8 dB noise figure (not measured by the reviewer). Concludes it suits riders prepared for a more challenging ride.",
+    "url": "https://zwiftinsider.com/tacx-neo-2t-review/",
+    "published": "2022-10"
+   }
+  ],
+  "checked": "2026-09-29",
+  "sources": [
+   "https://www.dcrainmaker.com/2019/11/smart-trainer-review.html",
+   "https://www.garmin.com/en-US/p/701670/",
+   "https://www.bikeradar.com/reviews/training/indoor-trainers/resistance-trainer/tacx-neo-2t-smart-review",
+   "https://zwiftinsider.com/tacx-neo-2t-review/"
+  ]
+ },
+ {
+  "id": "elite-justo-2",
+  "brand": "Elite",
+  "model": "Justo 2",
+  "type": "smart-trainer",
+  "status": "current",
+  "claimedPowerAccuracy": "<1%",
+  "maxPowerW": 2300,
+  "maxPowerNote": "At 40 km/h",
+  "maxSimulatedGradientPct": 24,
+  "minSimulatedGradientPct": null,
+  "flywheel": "7 kg",
+  "noiseClaim": null,
+  "weight": "17 kg",
+  "maxRiderWeight": null,
+  "connectivity": "ANT+, Bluetooth, Ethernet, WiFi, Zwift",
+  "price": null,
+  "priceCurrency": "EUR",
+  "priceNote": "Price shown in euro on Elite's own store, checked 2026-09-29; no US dollar price was available to our fetch, so no conversion is recorded. Shown here as priceLocal (EUR) so it is never displayed as dollars.",
+  "specSource": "https://www.elite-it.com/en/products/home-trainers/interactive-trainers/justo-2",
+  "priceSource": "https://www.elite-it.com/en/products/home-trainers/interactive-trainers/justo-2",
+  "publishedFindings": [],
+  "checked": "2026-09-29",
+  "sources": [
+   "https://www.elite-it.com/en/home-trainers/smart-trainers/justo-2",
+   "https://www.elite-it.com/en/products/home-trainers/interactive-trainers/justo-2"
+  ],
+  "priceLocal": 1125
+ },
+ {
+  "id": "elite-avanti",
+  "brand": "Elite",
+  "model": "Avanti",
+  "type": "smart-trainer",
+  "status": "current",
+  "claimedPowerAccuracy": "+/-1%",
+  "maxPowerW": 2100,
+  "maxPowerNote": "At 40 km/h",
+  "maxSimulatedGradientPct": 18,
+  "minSimulatedGradientPct": null,
+  "flywheel": "4 kg",
+  "noiseClaim": null,
+  "weight": "13 kg",
+  "maxRiderWeight": null,
+  "connectivity": "ANT+, Bluetooth, Ethernet, WiFi, Zwift",
+  "price": null,
+  "priceCurrency": "EUR",
+  "priceNote": "Price shown in euro on Elite's own store, checked 2026-09-29; no US dollar price was available to our fetch, so no conversion is recorded. Shown here as priceLocal (EUR) so it is never displayed as dollars.",
+  "specSource": "https://www.elite-it.com/en/products/home-trainers/interactive-trainers/avanti",
+  "priceSource": "https://www.elite-it.com/en/products/home-trainers/interactive-trainers/avanti",
+  "publishedFindings": [
+   {
+    "reviewer": "DC Rainmaker (Ray Maker)",
+    "reviewedModel": "Elite Avanti",
+    "measured": "Power vs SRAM Force crank and pedal power meters over ERG and structured workouts, with WiFi",
+    "result": "Reports the three sources sitting within roughly a 5-7 W spread, which he says is about what the combined claimed tolerances would predict, and praises the automatic temperature calibration; he noted a few connectivity drops that he attributed to his own interference.",
+    "url": "https://www.dcrainmaker.com/2025/02/elite-avanti-smart-trainer-review.html",
+    "published": "2025-02"
+   }
+  ],
+  "checked": "2026-09-29",
+  "sources": [
+   "https://www.dcrainmaker.com/2025/02/elite-avanti-smart-trainer-review.html",
+   "https://www.elite-it.com/en/home-trainers/smart-trainers/avanti",
+   "https://www.elite-it.com/en/products/home-trainers/interactive-trainers/avanti"
+  ],
+  "priceLocal": 669
+ },
+ {
+  "id": "elite-rivo",
+  "brand": "Elite",
+  "model": "Rivo",
+  "type": "smart-trainer",
+  "status": "current",
+  "claimedPowerAccuracy": "+/-2.5%",
+  "maxPowerW": 2000,
+  "maxPowerNote": "At 40 km/h",
+  "maxSimulatedGradientPct": 18,
+  "minSimulatedGradientPct": null,
+  "flywheel": "4 kg",
+  "noiseClaim": null,
+  "weight": "10 kg",
+  "maxRiderWeight": null,
+  "connectivity": "Bluetooth, WiFi, Zwift",
+  "price": null,
+  "priceCurrency": "EUR",
+  "priceNote": "Price shown in euro on Elite's own store, checked 2026-09-29; no US dollar price was available to our fetch, so no conversion is recorded. Shown here as priceLocal (EUR) so it is never displayed as dollars.",
+  "specSource": "https://www.elite-it.com/en/products/home-trainers/interactive-trainers/rivo",
+  "priceSource": "https://www.elite-it.com/en/products/home-trainers/interactive-trainers/rivo",
+  "publishedFindings": [
+   {
+    "reviewer": "BikeRadar",
+    "reviewedModel": "Elite Rivo (with Zwift Cog and Click)",
+    "measured": "Power against on-bike meters; noise; ERG",
+    "result": "Reports under-reading in sprints and some drift within single rides against on-bike meters; noise 60-62 dB at 150 W and 65-66 dB in sprints; ERG described as decent but with slight resistance wobble. Concludes it does not stand out at its price.",
+    "url": "https://www.bikeradar.com/reviews/training/indoor-trainers/elite-rivo-with-zwift-cog-and-click-review",
+    "published": "2025-11"
+   },
+   {
+    "reviewer": "road.cc",
+    "reviewedModel": "Elite Rivo",
+    "measured": "Power against a crank-based meter; noise; ERG; cadence",
+    "result": "Saw the trainer read about 4% higher than the crank meter (claim is +/-2.5%); noise about 62 dB with the drivetrain louder; ERG responsive over 30-second intervals; cadence matched a Stages crank. Missing auto-calibration and race mode noted; light and compact at 10 kg.",
+    "url": "https://road.cc/content/review/elite-rivo-317373",
+    "published": "2026-01"
+   }
+  ],
+  "checked": "2026-09-29",
+  "sources": [
+   "https://www.elite-it.com/en/home-trainers/smart-trainers/rivo",
+   "https://www.elite-it.com/en/products/home-trainers/interactive-trainers/rivo",
+   "https://www.bikeradar.com/reviews/training/indoor-trainers/elite-rivo-with-zwift-cog-and-click-review",
+   "https://road.cc/content/review/elite-rivo-317373"
+  ],
+  "priceLocal": 519
+ },
+ {
+  "id": "elite-tuo",
+  "brand": "Elite",
+  "model": "Tuo",
+  "type": "smart-trainer",
+  "status": "current",
+  "claimedPowerAccuracy": "+/-5%",
+  "maxPowerW": 1300,
+  "maxPowerNote": "At 40 km/h",
+  "maxSimulatedGradientPct": 10,
+  "minSimulatedGradientPct": null,
+  "flywheel": "2 kg",
+  "noiseClaim": null,
+  "weight": "10.3 kg",
+  "maxRiderWeight": null,
+  "connectivity": "ANT+, Bluetooth",
+  "price": null,
+  "priceCurrency": "EUR",
+  "priceNote": "Price shown in euro on Elite's own store, checked 2026-09-29; no US dollar price was available to our fetch, so no conversion is recorded. Wheel-on design. Shown here as priceLocal (EUR) so it is never displayed as dollars.",
+  "specSource": "https://www.elite-it.com/en/products/home-trainers/interactive-trainers/tuo",
+  "priceSource": "https://www.elite-it.com/en/products/home-trainers/interactive-trainers/tuo",
+  "publishedFindings": [
+   {
+    "reviewer": "DC Rainmaker (Ray Maker)",
+    "reviewedModel": "Elite Tuo",
+    "measured": "Power vs reference meters, with attention to the calibration procedure",
+    "result": "Says accuracy can be very good but depends on following the calibration steps carefully (including tightening the lower knob fully); with that done he reports near-spot-on data without recalibrating for weeks. Elite says it held back the launch to improve accuracy.",
+    "url": "https://www.dcrainmaker.com/2020/10/elite-smart-trainer-review.html",
+    "published": "2020-10"
+   },
+   {
+    "reviewer": "Cycling Weekly",
+    "reviewedModel": "Elite Tuo",
+    "measured": "Power accuracy on a wheel-on trainer; sprint and cadence behaviour",
+    "result": "Calls power very accurate for a wheel-on smart trainer but says sprint power and cadence response are weaker; ERG smooth. Position: an entry to smart training mainly when discounted.",
+    "url": "https://www.cyclingweekly.com/reviews/turbo-trainers-indoor-training/elite-tuo-smart-trainer-review-hands-down-the-prettiest-wheel-on-trainer-weve-tested",
+    "published": "2022-10"
+   }
+  ],
+  "checked": "2026-09-29",
+  "sources": [
+   "https://www.dcrainmaker.com/2020/10/elite-smart-trainer-review.html",
+   "https://www.elite-it.com/en/home-trainers/smart-trainers/tuo",
+   "https://www.elite-it.com/en/products/home-trainers/interactive-trainers/tuo",
+   "https://www.cyclingweekly.com/reviews/turbo-trainers-indoor-training/elite-tuo-smart-trainer-review-hands-down-the-prettiest-wheel-on-trainer-weve-tested"
+  ],
+  "priceLocal": 299
+ },
+ {
+  "id": "saris-h3-plus",
+  "brand": "Saris",
+  "model": "H3 Plus",
+  "type": "smart-trainer",
+  "status": "current",
+  "claimedPowerAccuracy": "±2%",
+  "maxPowerW": 2000,
+  "maxPowerNote": "At 20 mph",
+  "maxSimulatedGradientPct": 20,
+  "minSimulatedGradientPct": null,
+  "flywheel": "20 lb",
+  "noiseClaim": "59 dB at 20 mph (Saris)",
+  "weight": null,
+  "maxRiderWeight": "300 lb (rider and bike)",
+  "connectivity": "ANT+ FE-C, Bluetooth FTMS",
+  "price": 479.99,
+  "priceCurrency": "USD",
+  "priceNote": "Sale price on saris.com on 2026-09-29; the page's regular price was $699.99 and availability was marked out of stock.",
+  "specSource": "https://saris.com/products/h3-plus",
+  "priceSource": "https://saris.com/products/h3-plus",
+  "publishedFindings": [
+   {
+    "reviewer": "DC Rainmaker (Ray Maker)",
+    "reviewedModel": "Saris H3 (predecessor)",
+    "measured": "Review of the earlier H3: power vs pedal and crank power meters in Zwift and TrainerRoad, 30x30 ERG repeats",
+    "result": "Reports power within a few watts of the reference meters most of the time (about ±5 W at worst in the data shown), and says the H3 held ERG targets better than the trainers he compared it with; the built-in cadence estimate was poor. Applies to the H3, the predecessor of the H3 Plus.",
+    "url": "https://www.dcrainmaker.com/2019/08/saris-trainer-review.html",
+    "published": "2019-08"
+   },
+   {
+    "reviewer": "BikeRadar",
+    "reviewedModel": "Saris H3 (predecessor of H3 Plus)",
+    "measured": "Power against Garmin Vector pedals; noise; ERG",
+    "result": "Power within roughly 1-2% of the pedals, about 61 dB at 20 mph and far quieter than the H2, with a 9 kg flywheel and stable resistance changes. Lacks the road-surface feel of pricier trainers.",
+    "url": "https://www.bikeradar.com/reviews/training/indoor-trainers/resistance-trainer/saris-h3-review",
+    "published": "2019-11"
+   }
+  ],
+  "checked": "2026-09-29",
+  "sources": [
+   "https://saris.com/products/h3-plus",
+   "https://www.dcrainmaker.com/2019/08/saris-trainer-review.html",
+   "https://www.bikeradar.com/reviews/training/indoor-trainers/resistance-trainer/saris-h3-review"
+  ]
+ },
+ {
+  "id": "wattbike-atom",
+  "brand": "Wattbike",
+  "model": "Atom",
+  "type": "smart-bike",
+  "status": "current",
+  "claimedPowerAccuracy": "±1%",
+  "maxPowerW": 2500,
+  "maxPowerNote": "Stated power range 0-2500 W",
+  "maxSimulatedGradientPct": 25,
+  "minSimulatedGradientPct": 0,
+  "flywheel": null,
+  "noiseClaim": null,
+  "weight": "45 kg (bike), 50 kg boxed",
+  "maxRiderWeight": "135 kg",
+  "connectivity": "ANT+, Bluetooth, FTMS",
+  "price": 2699,
+  "priceCurrency": "USD",
+  "priceNote": "Sale price on us.wattbike.com on 2026-09-29; the page's regular price was $3,499.00 (save $800.00).",
+  "specSource": "https://us.wattbike.com/products/wattbike-atom",
+  "priceSource": "https://us.wattbike.com/products/wattbike-atom",
+  "publishedFindings": [
+   {
+    "reviewer": "DC Rainmaker (Ray Maker)",
+    "reviewedModel": "Wattbike Atom 2020",
+    "measured": "Power vs Favero Assioma and Garmin Vector pedals on the 2020 Atom, plus ERG target stability",
+    "result": "Found overall power accuracy good with no issues on the 2020 Atom, but ERG-mode target accuracy weak at the time, with overshoots or undershoots of roughly 40-50 W after transitions. Test predates the current 'Next Generation' model listed by Wattbike.",
+    "url": "https://www.dcrainmaker.com/2020/10/wattbike-smart-review.html",
+    "published": "2020-10"
+   },
+   {
+    "reviewer": "road.cc",
+    "reviewedModel": "Wattbike Atom (current generation, 2025 review)",
+    "measured": "Power against Favero Assioma PRO RS2 pedals; stability; ERG; shifting",
+    "result": "About 1% steady-state difference, slightly larger in ERG intervals; the bike stayed put in a 1,200 W sprint from a rider over 100 kg; ERG much improved; shift buttons mushy. Lists 2,500 W, 25% grade, 45 kg. Judges it a solid but incremental update and says Wattbike's cheaper Proton feels like the better buy right now.",
+    "url": "https://road.cc/content/review/wattbike-atom-316033",
+    "published": "2025-09"
+   },
+   {
+    "reviewer": "Cycling Weekly",
+    "reviewedModel": "Wattbike Atom (2021 model)",
+    "measured": "Build, adjustment range, ride feel",
+    "result": "Lists 44 kg, saddle height 59-85 cm, up to 8 cm fore-aft and full handlebar adjustment; calls it plug-and-play but with gear shifts slower than a bike on a conventional trainer. No accuracy test, and it reviews an older generation.",
+    "url": "https://www.cyclingweekly.com/reviews/turbo-trainers-indoor-training/wattbike-atom",
+    "published": "2021-12"
+   }
+  ],
+  "checked": "2026-09-29",
+  "sources": [
+   "https://us.wattbike.com/products/wattbike-atom",
+   "https://www.dcrainmaker.com/2020/10/wattbike-smart-review.html",
+   "https://road.cc/content/review/wattbike-atom-316033",
+   "https://www.cyclingweekly.com/reviews/turbo-trainers-indoor-training/wattbike-atom"
+  ]
+ },
+ {
+  "id": "jetblack-victory",
+  "brand": "JetBlack",
+  "model": "Victory",
+  "type": "smart-trainer",
+  "status": "current",
+  "claimedPowerAccuracy": "±2%",
+  "maxPowerW": 1800,
+  "maxPowerNote": null,
+  "maxSimulatedGradientPct": 16,
+  "minSimulatedGradientPct": null,
+  "flywheel": null,
+  "noiseClaim": null,
+  "weight": null,
+  "maxRiderWeight": "120 kg (264 lb)",
+  "connectivity": "Bluetooth FTMS, ANT+ FE-C",
+  "price": null,
+  "priceCurrency": null,
+  "priceNote": "Manufacturer store blocked automated access on 2026-09-29 (bot challenge), so no store price is recorded. BikeRadar (Nov 2024) lists it at GBP 399 / USD 399 / EUR 449.95 and road.cc (Jun 2025) at GBP 399; those are reviewer-reported prices, not a checked store price.",
+  "specSource": "https://support.jetblackcycling.com/what-are-the-victory-smart-trainer-tecnical-specifications",
+  "priceSource": null,
+  "publishedFindings": [
+   {
+    "reviewer": "DC Rainmaker (Ray Maker)",
+    "reviewedModel": "JetBlack Victory",
+    "measured": "Power and cadence vs multiple power meters, SIM and ERG modes, noise",
+    "result": "Reports power close to the other meters (about a 1 W difference to pedals on average, a roughly 7 W spread across the mean-max curve) and no accuracy or cadence problems, though he saw dropouts on the ANT+ data stream; ride noise was essentially inaudible over his drivetrain.",
+    "url": "https://www.dcrainmaker.com/2024/11/jetblack-victory-trainer-review.html",
+    "published": "2024-11"
+   },
+   {
+    "reviewer": "BikeRadar",
+    "reviewedModel": "JetBlack Victory",
+    "measured": "Power against Favero Assioma Duo pedals and a Quarq DFour DUB spider; noise; ERG",
+    "result": "Tracked the on-bike meters well, averaging slightly lower; noise 65-66 dB at 150 W; ERG ramped smoothly; sole annoyance was default smoothing of the power output that cannot be turned off. Called impressive for the price, with stock limited at launch.",
+    "url": "https://www.bikeradar.com/reviews/training/indoor-trainers/jetblack-victory-review",
+    "published": "2024-11"
+   },
+   {
+    "reviewer": "road.cc",
+    "reviewedModel": "JetBlack Victory",
+    "measured": "Power against Rotor 2InPower cranks; cadence; ERG and race mode",
+    "result": "Power barely a watt from the reference across 50-125% of FTP, over-reporting slightly at the top end; cadence about 1 rpm below the reference but repeatable; solid ERG and a 10 Hz race mode. Verdict: all the trainer non-elite riders need.",
+    "url": "https://road.cc/content/review/jetblack-victory-smart-trainer-zwift-cog-and-click-314435",
+    "published": "2025-06"
+   }
+  ],
+  "checked": "2026-09-29",
+  "sources": [
+   "https://support.jetblackcycling.com/what-are-the-victory-smart-trainer-tecnical-specifications",
+   "https://www.dcrainmaker.com/2024/11/jetblack-victory-trainer-review.html",
+   "https://www.bikeradar.com/reviews/training/indoor-trainers/jetblack-victory-review",
+   "https://road.cc/content/review/jetblack-victory-smart-trainer-zwift-cog-and-click-314435"
+  ]
+ },
+ {
+  "id": "zwift-ride-kickr-core-2",
+  "brand": "Zwift",
+  "model": "Zwift Ride (with KICKR CORE 2)",
+  "type": "smart-bike",
+  "status": "current",
+  "claimedPowerAccuracy": "±2% (KICKR CORE 2 trainer per Wahoo)",
+  "maxPowerW": 1800,
+  "maxPowerNote": null,
+  "maxSimulatedGradientPct": 16,
+  "minSimulatedGradientPct": -10,
+  "flywheel": null,
+  "noiseClaim": null,
+  "weight": null,
+  "maxRiderWeight": null,
+  "connectivity": null,
+  "price": 1299.99,
+  "priceCurrency": "USD",
+  "priceNote": "List price of Zwift Ride V2 with KICKR CORE 2 on us.zwift.com, read 2026-09-29 after the Big Weekend promotion ($999.99, 24-28 Sept 2026) had ended. Trainer figures are Wahoo's for the CORE 2 inside the bundle.",
+  "specSource": "https://www.wahoofitness.com/devices/indoor-cycling/bike-trainers/kickr-core-2-buy",
+  "priceSource": "https://us.zwift.com/collections/smart-trainers",
+  "publishedFindings": [
+   {
+    "reviewer": "DC Rainmaker (Ray Maker)",
+    "reviewedModel": "Zwift Ride",
+    "measured": "Month-plus use of the bike; power accuracy section refers back to his KICKR CORE Hub One test",
+    "result": "States that the bike's trainer is the same unit he tested previously and that its accuracy data carried over unchanged, so he did not repeat the accuracy analysis.",
+    "url": "https://www.dcrainmaker.com/2024/06/zwift-ride-indoor-bike-review-future.html",
+    "published": "2024-06"
+   },
+   {
+    "reviewer": "Cycling Weekly",
+    "reviewedModel": "Zwift Ride (frame with KICKR CORE 2)",
+    "measured": "Seven months of use; ease of use; fit",
+    "result": "Calls it simple and well executed with the most complete Zwift experience, good value against other smart bikes, but crank length is not adjustable and it is built around Zwift. No published power-accuracy numbers in the text read.",
+    "url": "https://www.cyclingweekly.com/reviews/bike-reviews/zwift-ride-review-the-ultimate-smart-bike-for-zwifties",
+    "published": "2024-10"
+   },
+   {
+    "reviewer": "Cyclist",
+    "reviewedModel": "Zwift Ride smart bike frame",
+    "measured": "Fit range, noise, trainer compatibility with the KICKR CORE Zwift One",
+    "result": "Says virtual shifting and the Play controls work well and it undercuts other smart bikes, but crank length is fixed and it only works properly in Zwift. Prices in the review (GBP 1,199 / USD 1,299) are 2024 launch figures.",
+    "url": "https://www.cyclist.co.uk/reviews/zwift-ride-smart-bike-frame-review",
+    "published": "2024-06"
+   }
+  ],
+  "checked": "2026-09-29",
+  "sources": [
+   "https://us.zwift.com/collections/smart-trainers",
+   "https://www.dcrainmaker.com/2024/06/zwift-ride-indoor-bike-review-future.html",
+   "https://www.wahoofitness.com/devices/indoor-cycling/bike-trainers/kickr-core-2-buy",
+   "https://www.cyclingweekly.com/reviews/bike-reviews/zwift-ride-review-the-ultimate-smart-bike-for-zwifties",
+   "https://www.cyclist.co.uk/reviews/zwift-ride-smart-bike-frame-review"
+  ]
+ },
+ {
+  "id": "stages-sb20",
+  "brand": "Stages",
+  "model": "SB20",
+  "type": "smart-bike",
+  "status": "current",
+  "claimedPowerAccuracy": null,
+  "maxPowerW": null,
+  "maxPowerNote": null,
+  "maxSimulatedGradientPct": null,
+  "minSimulatedGradientPct": null,
+  "flywheel": null,
+  "noiseClaim": null,
+  "weight": null,
+  "maxRiderWeight": null,
+  "connectivity": null,
+  "price": null,
+  "priceCurrency": null,
+  "priceNote": "Stages store returns 403 to automated access (checked 2026-09-29), so no current price is recorded. Reviewers priced it at GBP 2,249 (BikeRadar, Jan 2022) and GBP 1,699 (road.cc, May 2022, after a cut); both are dated and stale.",
+  "specSource": null,
+  "priceSource": null,
+  "publishedFindings": [
+   {
+    "reviewer": "DC Rainmaker (Ray Maker)",
+    "reviewedModel": "Stages SB20",
+    "measured": "Bike power (crank-arm power meter) vs Favero pedals, including a near-1,000 W sprint",
+    "result": "Reports the two sources peaking within about 1 W in the sprint he showed and calls the closeness unusually good, with some brief data dropouts he traced to connections; he also describes shifting on the bike as still a work in progress at review time.",
+    "url": "https://www.dcrainmaker.com/2020/07/stages-smart-review.html",
+    "published": "2020-07"
+   },
+   {
+    "reviewer": "road.cc",
+    "reviewedModel": "Stages SB20",
+    "measured": "Power against Garmin Rally 200 pedals; noise; ERG transitions; fit",
+    "result": "Power about 1% from Garmin Rally pedals around FTP, about 3% in standing intervals and about 10% in two very hard sprints; very quiet belt drive; ERG was the weak point (slow ramps, sprints missing target); adjustable fit. Judged better than the Wattbike Atom overall at the time.",
+    "url": "https://road.cc/content/review/stages-sb20-smart-bike-indoor-trainer-292501",
+    "published": "2022-05"
+   },
+   {
+    "reviewer": "BikeRadar",
+    "reviewedModel": "Stages SB20",
+    "measured": "Power accuracy and consistency; noise; fit range",
+    "result": "Found power reliable in ERG and free ride, running noise minimal, a fine-grained fit range and four crank lengths; main complaint was shifters lacking tactile feedback.",
+    "url": "https://www.bikeradar.com/reviews/training/indoor-trainers/resistance-trainer/stages-cycling-sb20-smart-bike-review",
+    "published": "2022-01"
+   }
+  ],
+  "checked": "2026-09-29",
+  "sources": [
+   "https://www.dcrainmaker.com/2020/07/stages-smart-review.html",
+   "https://road.cc/content/review/stages-sb20-smart-bike-indoor-trainer-292501",
+   "https://www.bikeradar.com/reviews/training/indoor-trainers/resistance-trainer/stages-cycling-sb20-smart-bike-review"
+  ]
+ }
+]

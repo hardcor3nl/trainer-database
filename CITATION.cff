@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below and link to the canonical page."
+type: dataset
+title: "Smart Trainer and Smart Bike Database"
+version: "2026-09-29"
+date-released: "2026-09-29"
+license: CC-BY-4.0
+url: "https://smartbikewiki.com/database/"
+abstract: "Manufacturer-claimed specs, store prices in the store's own currency and what named independent reviewers published about power accuracy and noise for 16 current smart trainers and smart bikes, each with its source link and a checked date. We ran no tests and nothing here is a score. A second file records five cycling apps' subscription prices."
+keywords:
+  - "smart trainer specs"
+  - "smart bike specs"
+  - "power meter accuracy"
+  - "indoor cycling database"
+authors:
+  - name: "SmartBikeWiki editorial"
+    website: "https://smartbikewiki.com/"

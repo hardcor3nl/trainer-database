@@ -1,0 +1,141 @@
+[
+  {
+    "id": "zwift",
+    "name": "Zwift",
+    "checked": "2026-09-29",
+    "pricing": {
+      "currency": "USD",
+      "monthly": 19.99,
+      "annual": 199.99,
+      "annualPerMonth": 16.67,
+      "note": "Annual is $199.99 (12 months for the price of 10; about $16.67/month is our arithmetic). One membership covers everything; hardware is not included."
+    },
+    "trial": "14-day free trial on the monthly plan; annual has no trial but can be cancelled within 30 days for a refund",
+    "platforms": null,
+    "platformsNote": "Not confirmed from the sources read this pass.",
+    "keyFeatures": [
+      "Virtual worlds and routes",
+      "Structured workouts and training plans",
+      "Group rides and racing events",
+      "Gamified progression with unlockable bikes and gear",
+      "Companion app"
+    ],
+    "sources": [
+      "https://www.zwift.com/news/33635-how-much-does-zwift-cost-and-whats-included-everything-you-need-to-know",
+      "https://www.zwift.com/pricing"
+    ]
+  },
+  {
+    "id": "trainerroad",
+    "name": "TrainerRoad",
+    "checked": "2026-09-29",
+    "pricing": {
+      "currency": "USD",
+      "monthly": 21.99,
+      "annual": 209.99,
+      "annualPerMonth": 17.45,
+      "note": "Annual billed as $209.99 (listed as a $17.45/month equivalent)."
+    },
+    "trial": "No free trial listed; 30-day money-back guarantee",
+    "platforms": [
+      "iOS",
+      "Android",
+      "Windows",
+      "macOS"
+    ],
+    "keyFeatures": [
+      "Structured adaptive training plans",
+      "TrainerRoad AI daily recommendations",
+      "TrainNow workout suggestions",
+      "Ride analysis and calendar",
+      "Sync with Garmin, Strava and Wahoo",
+      "Can run workouts inside Zwift"
+    ],
+    "sources": [
+      "https://www.trainerroad.com/pricing"
+    ]
+  },
+  {
+    "id": "mywhoosh",
+    "name": "MyWhoosh",
+    "checked": "2026-09-29",
+    "pricing": {
+      "currency": "USD",
+      "monthly": 0,
+      "annual": 0,
+      "note": "Free to play per MyWhoosh's own FAQ. An optional subscription raises 'premium slot' credits for custom workouts and plans; its price was not shown on the pages read. Cosmetic in-app purchases exist."
+    },
+    "trial": null,
+    "platforms": [
+      "iOS",
+      "Android",
+      "macOS",
+      "PC",
+      "Apple TV (per update notes)"
+    ],
+    "keyFeatures": [
+      "Free virtual worlds and routes",
+      "Workout builder and imports on the website",
+      "Organised events and race series",
+      "Optional subscription for more workout and plan slots"
+    ],
+    "sources": [
+      "https://mywhoosh.com/docs/is-there-a-membership-fee-to-use-mywhoosh/",
+      "https://mywhoosh.com/docs/what-do-i-get-with-a-subscription/",
+      "https://mywhoosh.com/"
+    ]
+  },
+  {
+    "id": "rouvy",
+    "name": "ROUVY",
+    "checked": "2026-09-29",
+    "pricing": {
+      "currency": "EUR",
+      "monthly": 19.99,
+      "annual": 179.99,
+      "note": "Single plan. Duo is EUR 29.99/month or EUR 249.99/year; Group EUR 59.99/month or EUR 499.99/year. A free tier allows 20 km a month. A USD price was not shown to our fetch."
+    },
+    "trial": "7-day free trial on subscription plans",
+    "platforms": [
+      "Windows",
+      "Mac",
+      "iOS",
+      "Android",
+      "iPad",
+      "Apple TV"
+    ],
+    "keyFeatures": [
+      "Real-world video routes from around the world",
+      "Workouts and training plans",
+      "Group rides and races",
+      "Subscription pause up to 180 days"
+    ],
+    "sources": [
+      "https://rouvy.com/pricing"
+    ]
+  },
+  {
+    "id": "wahoo-systm",
+    "name": "Wahoo SYSTM (Wahoo app Pro tier)",
+    "checked": "2026-09-29",
+    "pricing": {
+      "currency": "USD",
+      "monthly": 17.99,
+      "annual": 179.99,
+      "note": "The SYSTM library sits in the Pro tier of the Wahoo app. Core is $4.99/month or $49.99/year without the SYSTM library; Base is free. A Wahoo support post records a 2025 price increase."
+    },
+    "trial": "14 days of Pro free",
+    "platforms": null,
+    "platformsNote": "Not confirmed from the sources read this pass.",
+    "keyFeatures": [
+      "Unlimited SYSTM workout library (Pro)",
+      "Daily recommended workouts and training plans (Pro)",
+      "Strength, yoga and mental training content (Pro)",
+      "4DP rider profile"
+    ],
+    "sources": [
+      "https://eu.wahoofitness.com/wahoo-app-subscription",
+      "https://support.wahoofitness.com/hc/en-us/articles/29239127912466-Wahoo-app-and-subscription-2025-price-increase"
+    ]
+  }
+]

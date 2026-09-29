@@ -1,0 +1,186 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Smart trainer / smart bike record",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "required": [
+      "id",
+      "brand",
+      "model",
+      "type",
+      "status",
+      "checked",
+      "sources",
+      "publishedFindings"
+    ],
+    "properties": {
+      "id": {
+        "type": "string"
+      },
+      "brand": {
+        "type": "string"
+      },
+      "model": {
+        "type": "string"
+      },
+      "type": {
+        "enum": [
+          "smart-trainer",
+          "smart-roller",
+          "smart-bike"
+        ]
+      },
+      "status": {
+        "type": "string"
+      },
+      "claimedPowerAccuracy": {
+        "type": [
+          "string",
+          "null"
+        ]
+      },
+      "maxPowerW": {
+        "type": [
+          "number",
+          "null"
+        ]
+      },
+      "maxPowerNote": {
+        "type": [
+          "string",
+          "null"
+        ]
+      },
+      "maxSimulatedGradientPct": {
+        "type": [
+          "number",
+          "null"
+        ]
+      },
+      "minSimulatedGradientPct": {
+        "type": [
+          "number",
+          "null"
+        ]
+      },
+      "flywheel": {
+        "type": [
+          "string",
+          "null"
+        ]
+      },
+      "noiseClaim": {
+        "type": [
+          "string",
+          "null"
+        ]
+      },
+      "weight": {
+        "type": [
+          "string",
+          "null"
+        ]
+      },
+      "maxRiderWeight": {
+        "type": [
+          "string",
+          "null"
+        ]
+      },
+      "connectivity": {
+        "type": [
+          "string",
+          "null"
+        ]
+      },
+      "price": {
+        "type": [
+          "number",
+          "null"
+        ]
+      },
+      "priceCurrency": {
+        "type": [
+          "string",
+          "null"
+        ]
+      },
+      "priceNote": {
+        "type": [
+          "string",
+          "null"
+        ]
+      },
+      "specSource": {
+        "type": [
+          "string",
+          "null"
+        ],
+        "format": "uri"
+      },
+      "priceSource": {
+        "type": [
+          "string",
+          "null"
+        ],
+        "format": "uri"
+      },
+      "publishedFindings": {
+        "type": "array",
+        "items": {
+          "type": "object",
+          "required": [
+            "reviewer",
+            "reviewedModel",
+            "measured",
+            "result",
+            "url"
+          ],
+          "properties": {
+            "reviewer": {
+              "type": "string"
+            },
+            "reviewedModel": {
+              "type": "string"
+            },
+            "measured": {
+              "type": "string"
+            },
+            "result": {
+              "type": "string"
+            },
+            "url": {
+              "type": "string",
+              "format": "uri"
+            },
+            "published": {
+              "type": [
+                "string",
+                "null"
+              ]
+            }
+          }
+        }
+      },
+      "sources": {
+        "type": "array",
+        "items": {
+          "type": "string",
+          "format": "uri"
+        }
+      },
+      "checked": {
+        "type": "string",
+        "format": "date"
+      },
+      "priceLocal": {
+        "type": [
+          "number",
+          "null"
+        ],
+        "description": "Price in priceCurrency when priceCurrency is not USD; price stays null in that case"
+      }
+    }
+  }
+}
